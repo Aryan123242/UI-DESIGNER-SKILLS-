@@ -1,0 +1,7 @@
+{
+  "name": "UI Designer",
+  "description": "Designs modern mobile UI using glassmorphism",
+  "trigger_words": ["design", "ui", "layout"],
+  "inputs": ["screen"],
+  "outputs": ["layout", "colors", "components"]
+}
