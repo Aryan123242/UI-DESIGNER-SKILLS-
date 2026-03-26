@@ -1,7 +1,0 @@
-Use 8dp spacing
-Use rounded corners 16dp
-Use glassmorphism effect
-Use gradient background
-Use modern fonts (Poppins, Inter)
-Use minimal layout
-Use icons with text
