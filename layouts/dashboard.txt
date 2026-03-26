@@ -1,0 +1,7 @@
+Dashboard Layout:
+
+Top Greeting
+Search Bar
+Grid Cards
+Stats Section
+Bottom Navigation
