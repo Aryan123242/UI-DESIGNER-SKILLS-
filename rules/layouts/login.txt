@@ -1,8 +1,0 @@
-Login Screen Layout:
-
-Top Logo
-Glass Card Center
-Email Field
-Password Field
-Login Button
-Signup Text Below
