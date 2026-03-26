@@ -1,0 +1,12 @@
+Dark Glass:
+#0F2027
+#203A43
+#2C5364
+#00E5FF
+#FFFFFF
+
+Purple Neon:
+#0D0D0D
+#6C63FF
+#00E5FF
+#FF4D9D
